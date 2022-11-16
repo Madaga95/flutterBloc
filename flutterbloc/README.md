@@ -1,16 +1,13 @@
 # flutterbloc
 
-A new Flutter project.
+Flutter bloc est une méthode développement qui va nous permettre de structuré notre code.
+C'est un dériver du célèbre MVC (Model-View-Controller).
 
-## Getting Started
+Les principaux packages Flutter que nous utilisons :
 
-This project is a starting point for a Flutter application.
+Le package flutter_bloc : https://pub.dev/packages/flutter_bloc
+Le package bloc : https://pub.dev/packages/bloc
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![flutter-bloc-counter](https://user-images.githubusercontent.com/74613897/202178633-d20e744c-92ca-4f7b-b0d1-65ec2829525e.jpg)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
